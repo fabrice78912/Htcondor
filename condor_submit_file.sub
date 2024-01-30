@@ -1,0 +1,6 @@
+executable = /Users/fabricefoko/Documents/Projets_JAVA/ecom-project/script/convert_image.sh
+arguments = /Users/fabricefoko/Documents/Projets_JAVA/ecom-project/script /Users/fabricefoko/Documents/Projets_JAVA/ecom-project/script/ output.jpg
+output = /Users/fabricefoko/Documents/Projets_JAVA/ecom-project/script/convert_output.txt
+error = /Users/fabricefoko/Documents/Projets_JAVA/ecom-project/script/convert_error.txt
+log = /Users/fabricefoko/Documents/Projets_JAVA/ecom-project/script/convert_log.txt
+queue
